@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalvaakhil" alt="kalvaakhil" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/akhilre04454404" target="blank"><img src="https://img.shields.io/twitter/follow/akhilre04454404?logo=twitter&style=for-the-badge" alt="akhilre04454404" /></a> </p>
-
 - 🌱 I’m currently learning **Angular,React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kalvaakhil/ALL-PROJECTS](https://github.com/kalvaakhil/ALL-PROJECTS)
