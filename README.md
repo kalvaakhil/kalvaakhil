@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhil Reddy Kalva</h1>
 <h3 align="center">A passionate software developer and Data Science Enthusiastic from Hyderabad.</h3>
-<img align="right" alt="Coding Image" width="450" src="https://www.vecteezy.com/free-vector/programmer">
+<img align="right" alt="Coding Image" width="450" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalvaakhil&label=Profile%20views&color=0e75b6&style=flat" alt="kalvaakhil" /> </p>
 
 - 🌱 I’m currently learning **Angular,React Js,.Net Frame Work.**
