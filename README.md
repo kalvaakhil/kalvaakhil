@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akhilre04454404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhilre04454404" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akhil reddy kalva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil reddy kalva" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@kalvaakhilreddy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kalvaakhilreddy1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akhil-reddy-kalva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil-reddy-kalva" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kalvaakhilreddy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kalvaakhilreddy1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kalvaakhilreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kalvaakhilreddy" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kalvaakhilreddy080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kalvaakhilreddy080" height="30" width="40" /></a>
 </p>
