@@ -1,93 +1,46 @@
-<!-- Profile README for @kalvaakhil -->
-<!-- Tip: rename this repo to kalvaakhil/kalvaakhil and put this file as README.md -->
-
-<h1 align="center">Hi there, I'm Akhil Reddy Kalva 👋</h1>
-<h3 align="center">Backend Developer • Data Science Enthusiast • Hyderabad, India</h3>
+<h1 align="center">Hi, I'm Akhil Reddy Kalva 👋</h1>
+<h3 align="center">Backend Software Engineer | Java 21 | Microservices Expert</h3>
 
 <p align="center">
-  <a href="mailto:kalvaakhilreddy080@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kalvaakhilreddy080%40gmail.com-red?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/akhil-reddy-kalva-a0213418b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Akhil%20Reddy%20Kalva-blue?logo=linkedin"></a>
-  <a href="https://github.com/kalvaakhil" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-kalvaakhil-181717?logo=github"></a>
-  <a href="https://leetcode.com/kalvaakhilreddy/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-kalvaakhilreddy-FFA116?logo=leetcode&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/kalvaakhilreddy1" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-kalvaakhilreddy1-2EC866?logo=hackerrank&logoColor=white"></a>
-  <a href="https://auth.geeksforgeeks.org/user/kalvaakhilreddy080" target="_blank"><img alt="GFG" src="https://img.shields.io/badge/GeeksforGeeks-kalvaakhilreddy080-2F8D46?logo=geeksforgeeks&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalvaakhil&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="mailto:kalvaakhilreddy080@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/akhil-reddy-kalva-a0213418b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+  <a href="https://leetcode.com/kalvaakhilreddy/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Expert%20(Top%203%25)-FFA116?logo=leetcode"></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 Currently learning: **Angular, React.js, .NET**
-- 💬 Ask me about: **Java, Python, Spring Boot, REST APIs, SQL, HTML/CSS/JS**
-- 📁 All projects: **[ALL-PROJECTS](https://github.com/kalvaakhil/ALL-PROJECTS)**
-- 📫 Reach me: **kalvaakhilreddy080@gmail.com**
+### 🛠️ Technical Expertise
+* **Languages:** Java 21 (Virtual Threads), Python, JavaScript.
+* **Backend:** Spring Boot 3.x, Spring Cloud, Microservices, RESTful APIs, Spring Batch.
+* **Architecture:** System Design (HLD/LLD), Event-Driven Architecture (Kafka), SOLID, Design Patterns.
+* **Database:** PostgreSQL, Oracle SQL, MongoDB, Redis (Caching), Query Optimization.
+* **Cloud & DevOps:** AWS (EC2/S3), Docker, CI/CD, ELK/Splunk.
 
----
-
-### 🛠️ Languages & Tools
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-005571.svg?logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white" />
-</p>
+### 📈 Impact & Achievements
+* **Performance:** Optimized Oracle SQL queries, reducing API latency by **40%**.
+* **Scalability:** Scaled backend services to support **50k+ active users** with **99.9% uptime**.
+* **Efficiency:** Reduced cloud infrastructure spend by **18%** via auto-scaling and resource right-sizing.
+* **Automation:** Automated legacy migrations via Spring Batch, reducing manual overhead by **70%**.
+* **Problem Solving:** **1000+ LeetCode problems solved** (Top 3% Global Rank).
 
 ---
 
 ### 🚀 Featured Projects
-- **Railway Management System**  
-  Spring Boot microservices + Angular UI for booking, cancellation, and PNR tracking. Secured with Spring Security & JWT and optimized MongoDB queries for faster search.  
-  `Java` `Spring Boot` `MongoDB` `Angular`
+- **Scalable E-Commerce API (Java 21 + Kafka)** A microservices-based backend with event-driven order processing, Redis caching for inventory, and Resilience4j circuit breakers for fault tolerance.  
+  `Java 21` `Spring Boot` `Kafka` `Redis` `PostgreSQL` `Docker`
 
-- **Smart Traffic Monitoring System (AI/ML)**  
-  Vehicle detection & counting on traffic videos using **YOLOv7 + DeepSORT + OpenCV**, trained via **RoboFlow**; recognizes 10+ vehicle classes and improves traffic analysis accuracy.  
-  `Python` `YOLOv7` `DeepSORT` `OpenCV` `RoboFlow`
+- **Railway Management System** Spring Boot microservices architecture for booking and PNR tracking. Secured with OAuth2/JWT and optimized for high-concurrency search queries.  
+  `Java` `Spring Security` `MongoDB` `Angular`
 
-- **Task Automation System**  
-  Automated ETL-style workflows with **Spring Batch** (retry/rollback) over large Oracle datasets; scheduled executions with monitoring & alerts to reduce manual effort by ~90%.  
-  `Java` `Spring Batch` `Oracle SQL`
+- **Smart Traffic Monitoring System** AI-powered vehicle detection using **YOLOv7 + DeepSORT**.  
+  `Python` `OpenCV` `YOLOv7` `DeepSORT`
 
-> 🔗 See more: [ALL-PROJECTS](https://github.com/kalvaakhil/ALL-PROJECTS)
+> 🔗 [View All Projects](https://github.com/kalvaakhil/ALL-PROJECTS)
 
 ---
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kalvaakhil&show_icons=true&theme=default&hide=issues" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalvaakhil&layout=compact&langs_count=8" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kalvaakhil&show_icons=true&theme=default&hide=issues&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalvaakhil&layout=compact&langs_count=8" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalvaakhil" alt="GitHub Streak" />
-</p>
-
----
-
-### 🔗 Connect With Me
-<p>
-  <a href="mailto:kalvaakhilreddy080@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/akhil-reddy-kalva-a0213418b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/kalvaakhil" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/kalvaakhilreddy/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/kalvaakhilreddy1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/kalvaakhilreddy080" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white" /></a>
-</p>
-
-<!-- Optional: Fun banner or coding GIF on the right 
-<img align="right" width="420" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png" alt="coding" />
--->
-
