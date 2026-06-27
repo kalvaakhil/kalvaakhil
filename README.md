@@ -78,7 +78,7 @@ I design high-performance, scalable backend systems, resilient microservices, an
 
                 ## &#128236; Connect with Me
 
-                - **Email**: [kalvaakhil.work@gmail.com](mailto:kalvaakhil.work@gmail.com)
-                - - **LinkedIn**: [linkedin.com/in/akhil-kalva](https://linkedin.com/in/akhil-kalva)
+                - **Email**: [kalvaakhil.work@gmail.com](mailto:kalvaakhilreddy080@gmail.com)
+                - - **LinkedIn**: [linkedin.com/in/akhil-kalva](https://www.linkedin.com/in/akhil-reddy-kalva-a0213418b/)
                   - - **Portfolio Website**: `https://akhil-kalva.vercel.app` (Staging)
                     - 
