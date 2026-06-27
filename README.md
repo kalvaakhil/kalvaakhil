@@ -15,7 +15,7 @@ I design high-performance, scalable backend systems, resilient microservices, an
           <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
             <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
               <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+</p>p>
 
 <p align="left">
   <!-- Backend Frameworks -->
@@ -23,7 +23,7 @@ I design high-performance, scalable backend systems, resilient microservices, an
       <img src="https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
         <img src="https://img.shields.io/badge/Spring_Data_JPA-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data" />
           <img src="https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-</p>
+</p>p>
 
 <p align="left">
   <!-- Databases & Caches -->
@@ -31,7 +31,7 @@ I design high-performance, scalable backend systems, resilient microservices, an
       <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
         <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
           <img src="https://img.shields.io/badge/Apache_Kafka-%23272727.svg?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-</p>
+</p>p>
 
 <p align="left">
   <!-- Frontend & Cloud/DevOps -->
@@ -40,7 +40,7 @@ I design high-performance, scalable backend systems, resilient microservices, an
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
           <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
             <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+</p>p>
 
 ---
 
@@ -68,17 +68,16 @@ I design high-performance, scalable backend systems, resilient microservices, an
                 <p align="center">
                   <img src="https://github-readme-stats.vercel.app/api?username=kalvaakhil&show_icons=true&theme=tokyonight&count_private=true" alt="Akhil's GitHub Stats" height="195px" />
                     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalvaakhil&layout=compact&theme=tokyonight" alt="Top Langs" height="195px" />
-                </p>
+                </p>p>
 
                 <p align="center">
                   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalvaakhil&theme=tokyonight" alt="GitHub Streak" />
-                </p>
+                </p>p>
 
                 ---
 
                 ## &#128236; Connect with Me
 
-                - **Email**: [kalvaakhil.work@gmail.com](mailto:kalvaakhilreddy080@gmail.com)
-                - - **LinkedIn**: [linkedin.com/in/akhil-kalva](https://www.linkedin.com/in/akhil-reddy-kalva-a0213418b/)
+                - **Email**: [kalvaakhilreddy080@gmail.com](mailto:kalvaakhilreddy080@gmail.com)
+                - - **LinkedIn**: [linkedin.com/in/akhil-reddy-kalva-a0213418b](https://www.linkedin.com/in/akhil-reddy-kalva-a0213418b/)
                   - - **Portfolio Website**: `https://akhil-kalva.vercel.app` (Staging)
-                    - 
