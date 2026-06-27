@@ -178,11 +178,21 @@ TypeScript-first e-commerce backend with **event-driven architecture** and full 
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kalvaakhil&theme=tokyonight&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+![AWS CCP](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-800%2B_Problems_Solved-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![CGPA](https://img.shields.io/badge/CGPA-9.45_%7C_Top_1.25%25-%2338bdf8?style=for-the-badge&logo=academia&logoColor=white)
+![Production](https://img.shields.io/badge/Production-Zero_Critical_Incidents_%7C_18_Months-%2322c55e?style=for-the-badge&logo=checkmarx&logoColor=white)
+
+<br/>
+
+![Microservices](https://img.shields.io/badge/Microservices-12%2B_Owned_in_Prod-%236366f1?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Latency](https://img.shields.io/badge/p99_Latency-850ms_%E2%86%92_510ms-%23f97316?style=for-the-badge&logo=speedtest&logoColor=white)
+![Coverage](https://img.shields.io/badge/REST_Assured-95%25_Coverage-%2310b981?style=for-the-badge&logo=testcafe&logoColor=white)
+![Cost](https://img.shields.io/badge/Nightly_Cost-2%2B_Hrs_Saved_Daily-%23a855f7?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 </div>
 
